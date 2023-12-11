@@ -3,6 +3,8 @@ import turtle
 # Create a turtle object
 t = turtle.Turtle()
 
+t.shape('turtle')
+
 # Set the turtle's color
 t.color("blue")
 
